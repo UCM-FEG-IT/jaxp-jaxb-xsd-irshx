@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="games.xsd">
+
+<GameList>
+    
+   <game id="gta3">
+      <title>Grand Theft Auto III</title>
+      <publisher>Rockstar Games</publisher>
+      <genre>Action & Adventure</genre>
+      <price>49.99</price>
+      <date_released>2001-10-22</date_released>
+   </game>
+   
+   <game id="CODBO3">
+      <title>Call of Duty 3</title>
+      <publisher>Activision</publisher>
+      <genre>Action & Adventure</genre>
+      <price>44.99</price>
+      <date_released>2006-11-07</date_released>
+   </game>
+   
+   <game id="FRNHT">
+      <title>Fahrenheit</title>
+      <publisher>Atari, Inc.</publisher>
+      <genre>Action & Thriller</genre>
+      <price>24.99</price>
+      <date_released>2005-09-16</date_released>
+   </game>
+</GameList>
